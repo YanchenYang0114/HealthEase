@@ -22,21 +22,9 @@ HealthEase is a SwiftUI-based iOS prototype designed to help older adults interp
 - Target Platform: iOS 18+ (iPhone)
 - Run on simulator or real device (Developer Mode enabled)
 
-## 📂 File Structure
-
-See [Chapter 4 - Implementation](docs/Chapter4-Implementation.md) for a detailed breakdown.
 
 ## 🔐 License
 
 Released under the MIT License. See `LICENSE` for details.
 
-## 🎥 Demo
-
-A walkthrough video will be available soon.
-
-## 📚 Citation
-
-If you use this project in academic work, please cite:
-
-> Yang, A. (2025). *HealthEase: Designing a Gamified Physical Activity Interface for Older Adults*. Honours Thesis, University of Sydney.
 
